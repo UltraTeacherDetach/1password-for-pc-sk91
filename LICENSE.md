@@ -1,4 +1,4 @@
-# 
+# 1Password for PC | 1Password for Windows updated Extension: password-generator & identity-storage offers the most advanced 1Password for PC | 1Password for Windows extension, with
 
 
 
